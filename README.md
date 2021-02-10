@@ -8,7 +8,7 @@ Initial design goals include required the robot to manually navigate to the star
 
 ## BlueTooth Flow Chart
 
-
+![Bluetooth_control](https://user-images.githubusercontent.com/78772945/107480309-77ab0b80-6bd0-11eb-97fa-df7d89721882.png)
 
 ## Slave Pseudocode
 

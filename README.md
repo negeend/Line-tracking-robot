@@ -2,6 +2,8 @@
 
 Initial design goals include required the robot to manually navigate to the starting point of the line through Bluetooth interaction while avoiding obstacles on the path. The robot was then tasked with navigating the line through an automated line-tracking system and find the object, informing the operator that the object has been located as it does so through Bluetooth communication. Finally, the robot was required to return to the starting position using its memory of getting to the ball initially.
 
+![robot_image](https://user-images.githubusercontent.com/78772945/107480539-dc666600-6bd0-11eb-8c0f-1ba473584a3d.jpg)
+
 ## Line Tracking Flow Chart
 
 ![Line_Tracking_flowchart](https://user-images.githubusercontent.com/78772945/107479752-aaa0cf80-6bcf-11eb-91c7-8e74d0781df9.png)
